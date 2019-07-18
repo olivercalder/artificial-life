@@ -1,0 +1,31 @@
+Energy:
+- heat
+- light
+- chemical
+    - dead stuff
+    - living stuff (parasitic)
+
+Reproduction:
+- asexual
+    - if sufficient energy has accumulated and time has passed
+    - 
+- sexual
+    - gene sharing
+
+Evolution:
+- random mutation
+- gene transfer
+
+Lifespan:
+- some number of cycles
+
+Movement:
+- none
+- random (unguided)
+- controlled (guided by senses)
+
+
+
+Possible:
+- Gradual degradation of ability over time
+- When being does a thing, ability gets slightly better
